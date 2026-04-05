@@ -1,0 +1,675 @@
+[  0%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/cmake_pch.hxx.gch
+[  0%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreASTCCodec.cpp.o
+[  0%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreAlignedAllocator.cpp.o
+[  1%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreAnimable.cpp.o
+[  1%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreAnimation.cpp.o
+[  1%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreAnimationState.cpp.o
+[  1%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreAnimationTrack.cpp.o
+[  1%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreArchive.cpp.o
+[  2%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreArchiveManager.cpp.o
+[  2%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreAutoParamDataSource.cpp.o
+[  2%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreAxisAlignedBox.cpp.o
+[  2%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreBillboard.cpp.o
+[  2%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreBillboardChain.cpp.o
+[  2%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreBillboardParticleRenderer.cpp.o
+[  3%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreBillboardSet.cpp.o
+[  3%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreBone.cpp.o
+[  3%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreCamera.cpp.o
+[  3%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreCodec.cpp.o
+[  3%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreColourValue.cpp.o
+[  4%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreCommon.cpp.o
+[  4%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreCompositionPass.cpp.o
+[  4%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreCompositionTargetPass.cpp.o
+[  4%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreCompositionTechnique.cpp.o
+[  4%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreCompositor.cpp.o
+[  4%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreCompositorChain.cpp.o
+[  5%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreCompositorInstance.cpp.o
+[  5%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreCompositorManager.cpp.o
+[  5%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreConfigFile.cpp.o
+[  5%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreControllerManager.cpp.o
+[  5%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreConvexBody.cpp.o
+[  6%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreDataStream.cpp.o
+[  6%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreDefaultDebugDrawer.cpp.o
+[  6%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreDefaultHardwareBufferManager.cpp.o
+[  6%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreDefaultSceneQueries.cpp.o
+[  6%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreDefaultWorkQueueStandard.cpp.o
+[  6%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreDeflate.cpp.o
+[  7%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreDepthBuffer.cpp.o
+[  7%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreDistanceLodStrategy.cpp.o
+[  7%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreDualQuaternion.cpp.o
+[  7%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreDynLib.cpp.o
+[  7%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreDynLibManager.cpp.o
+[  7%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreEdgeListBuilder.cpp.o
+[  8%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreEntity.cpp.o
+[  8%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreException.cpp.o
+[  8%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreExternalTextureSource.cpp.o
+[  8%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreExternalTextureSourceManager.cpp.o
+[  8%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreFileSystem.cpp.o
+[  9%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreFrustum.cpp.o
+[  9%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreGpuProgram.cpp.o
+[  9%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreGpuProgramManager.cpp.o
+[  9%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreGpuProgramParams.cpp.o
+[  9%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreGpuProgramUsage.cpp.o
+[  9%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreHardwareBufferManager.cpp.o
+[ 10%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreHardwareIndexBuffer.cpp.o
+[ 10%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreHardwareOcclusionQuery.cpp.o
+[ 10%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreHardwarePixelBuffer.cpp.o
+[ 10%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreHardwareVertexBuffer.cpp.o
+[ 10%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreHighLevelGpuProgram.cpp.o
+[ 11%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreImage.cpp.o
+[ 11%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreInstanceBatch.cpp.o
+[ 11%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreInstanceBatchHW.cpp.o
+[ 11%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreInstanceBatchHW_VTF.cpp.o
+[ 11%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreInstanceBatchShader.cpp.o
+[ 11%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreInstanceBatchVTF.cpp.o
+[ 12%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreInstanceManager.cpp.o
+[ 12%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreInstancedEntity.cpp.o
+[ 12%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreKeyFrame.cpp.o
+[ 12%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreLight.cpp.o
+[ 12%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreLodStrategy.cpp.o
+[ 13%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreLodStrategyManager.cpp.o
+[ 13%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreLog.cpp.o
+[ 13%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreLogManager.cpp.o
+[ 13%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreManualObject.cpp.o
+[ 13%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreMaterial.cpp.o
+[ 13%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreMaterialManager.cpp.o
+[ 14%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreMaterialSerializer.cpp.o
+[ 14%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreMath.cpp.o
+[ 14%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreMatrix3.cpp.o
+[ 14%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreMatrix4.cpp.o
+[ 14%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreMesh.cpp.o
+[ 15%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreMeshManager.cpp.o
+[ 15%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreMeshSerializer.cpp.o
+[ 15%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreMeshSerializerImpl.cpp.o
+[ 15%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreMovableObject.cpp.o
+[ 15%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreMovablePlane.cpp.o
+[ 15%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreMurmurHash3.cpp.o
+[ 16%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreNode.cpp.o
+[ 16%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreNumerics.cpp.o
+[ 16%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreOptimisedUtil.cpp.o
+[ 16%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreOptimisedUtilGeneral.cpp.o
+[ 16%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreOptimisedUtilSSE.cpp.o
+[ 16%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreParticleEmitter.cpp.o
+[ 17%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreParticleEmitterCommands.cpp.o
+[ 17%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreParticleSystem.cpp.o
+[ 17%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreParticleSystemManager.cpp.o
+[ 17%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgrePass.cpp.o
+[ 17%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgrePatchMesh.cpp.o
+[ 18%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgrePatchSurface.cpp.o
+[ 18%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgrePixelCountLodStrategy.cpp.o
+[ 18%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgrePixelFormat.cpp.o
+[ 18%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgrePlatformInformation.cpp.o
+[ 18%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgrePolygon.cpp.o
+[ 18%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgrePose.cpp.o
+[ 19%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgrePredefinedControllers.cpp.o
+[ 19%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgrePrefabFactory.cpp.o
+[ 19%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreProfiler.cpp.o
+[ 19%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreQuaternion.cpp.o
+[ 19%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreRectangle2D.cpp.o
+[ 20%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreRenderQueue.cpp.o
+[ 20%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreRenderQueueSortingGrouping.cpp.o
+[ 20%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreRenderSystem.cpp.o
+[ 20%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreRenderSystemCapabilities.cpp.o
+[ 20%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreRenderSystemCapabilitiesManager.cpp.o
+[ 20%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreRenderSystemCapabilitiesSerializer.cpp.o
+[ 21%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreRenderTarget.cpp.o
+[ 21%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreRenderTexture.cpp.o
+[ 21%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreRenderToVertexBuffer.cpp.o
+[ 21%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreRenderWindow.cpp.o
+[ 21%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreRenderable.cpp.o
+[ 22%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreResource.cpp.o
+[ 22%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreResourceBackgroundQueue.cpp.o
+[ 22%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreResourceGroupManager.cpp.o
+[ 22%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreResourceManager.cpp.o
+[ 22%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreRibbonTrail.cpp.o
+[ 22%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreRoot.cpp.o
+[ 23%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreRotationSpline.cpp.o
+[ 23%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreSceneManager.cpp.o
+[ 23%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreSceneManagerEnumerator.cpp.o
+[ 23%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreSceneNode.cpp.o
+[ 23%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreSceneQuery.cpp.o
+[ 24%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreScriptCompiler.cpp.o
+[ 24%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreScriptLexer.cpp.o
+[ 24%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreScriptParser.cpp.o
+[ 24%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreScriptTranslator.cpp.o
+[ 24%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreSerializer.cpp.o
+[ 24%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreShadowCameraSetup.cpp.o
+[ 25%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreShadowCameraSetupFocused.cpp.o
+[ 25%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreShadowCameraSetupLiSPSM.cpp.o
+[ 25%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreShadowCameraSetupPSSM.cpp.o
+[ 25%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreShadowCameraSetupPlaneOptimal.cpp.o
+[ 25%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreShadowCaster.cpp.o
+[ 26%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreShadowTextureManager.cpp.o
+[ 26%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreShadowVolumeExtrudeProgram.cpp.o
+[ 26%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreSimpleRenderable.cpp.o
+[ 26%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreSimpleSpline.cpp.o
+[ 26%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreSkeleton.cpp.o
+[ 26%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreSkeletonInstance.cpp.o
+[ 27%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreSkeletonManager.cpp.o
+[ 27%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreSkeletonSerializer.cpp.o
+[ 27%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreSkyRenderer.cpp.o
+[ 27%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreStaticGeometry.cpp.o
+[ 27%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreStencilShadowRenderer.cpp.o
+[ 27%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreStreamSerialiser.cpp.o
+[ 28%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreString.cpp.o
+[ 28%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreStringConverter.cpp.o
+[ 28%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreStringInterface.cpp.o
+[ 28%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreSubEntity.cpp.o
+[ 28%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreSubMesh.cpp.o
+In constructor ‘Ogre::Cluster::Cluster(Ogre::Cluster&&)’,
+    inlined from ‘void std::__new_allocator<_Tp>::construct(_Up*, _Args&& ...) [with _Up = Ogre::Cluster; _Args = {Ogre::Cluster}; _Tp = Ogre::Cluster]’ at /usr/include/c++/14/bits/new_allocator.h:191:4,
+    inlined from ‘static void std::allocator_traits<std::allocator<_CharT> >::construct(allocator_type&, _Up*, _Args&& ...) [with _Up = Ogre::Cluster; _Args = {Ogre::Cluster}; _Tp = Ogre::Cluster]’ at /usr/include/c++/14/bits/alloc_traits.h:575:17,
+    inlined from ‘void std::vector<_Tp, _Alloc>::emplace_back(_Args&& ...) [with _Args = {Ogre::Cluster}; _Tp = Ogre::Cluster; _Alloc = std::allocator<Ogre::Cluster>]’ at /usr/include/c++/14/bits/vector.tcc:117:30,
+    inlined from ‘void std::vector<_Tp, _Alloc>::push_back(value_type&&) [with _Tp = Ogre::Cluster; _Alloc = std::allocator<Ogre::Cluster>]’ at /usr/include/c++/14/bits/stl_vector.h:1301:21,
+    inlined from ‘void Ogre::SubMesh::generateExtremes(size_t)’ at /home/vboxuser/Desktop/ogre/OgreMain/src/OgreSubMesh.cpp:244:25:
+/home/vboxuser/Desktop/ogre/OgreMain/src/OgreSubMesh.cpp:144:12: warning: ‘<unnamed>.Ogre::Cluster::mMin’ may be used uninitialized [-Wmaybe-uninitialized]
+  144 |     struct Cluster
+      |            ^~~~~~~
+/home/vboxuser/Desktop/ogre/OgreMain/src/OgreSubMesh.cpp: In member function ‘void Ogre::SubMesh::generateExtremes(size_t)’:
+/home/vboxuser/Desktop/ogre/OgreMain/src/OgreSubMesh.cpp:244:35: note: ‘<anonymous>’ declared here
+  244 |         boxes.push_back (Cluster ());
+      |                                   ^
+In constructor ‘Ogre::Cluster::Cluster(Ogre::Cluster&&)’,
+    inlined from ‘void std::__new_allocator<_Tp>::construct(_Up*, _Args&& ...) [with _Up = Ogre::Cluster; _Args = {Ogre::Cluster}; _Tp = Ogre::Cluster]’ at /usr/include/c++/14/bits/new_allocator.h:191:4,
+    inlined from ‘static void std::allocator_traits<std::allocator<_CharT> >::construct(allocator_type&, _Up*, _Args&& ...) [with _Up = Ogre::Cluster; _Args = {Ogre::Cluster}; _Tp = Ogre::Cluster]’ at /usr/include/c++/14/bits/alloc_traits.h:575:17,
+    inlined from ‘void std::vector<_Tp, _Alloc>::emplace_back(_Args&& ...) [with _Args = {Ogre::Cluster}; _Tp = Ogre::Cluster; _Alloc = std::allocator<Ogre::Cluster>]’ at /usr/include/c++/14/bits/vector.tcc:117:30,
+    inlined from ‘void std::vector<_Tp, _Alloc>::push_back(value_type&&) [with _Tp = Ogre::Cluster; _Alloc = std::allocator<Ogre::Cluster>]’ at /usr/include/c++/14/bits/stl_vector.h:1301:21,
+    inlined from ‘void Ogre::SubMesh::generateExtremes(size_t)’ at /home/vboxuser/Desktop/ogre/OgreMain/src/OgreSubMesh.cpp:244:25:
+/home/vboxuser/Desktop/ogre/OgreMain/src/OgreSubMesh.cpp:144:12: warning: ‘<unnamed>.Ogre::Cluster::mMax’ may be used uninitialized [-Wmaybe-uninitialized]
+  144 |     struct Cluster
+      |            ^~~~~~~
+/home/vboxuser/Desktop/ogre/OgreMain/src/OgreSubMesh.cpp: In member function ‘void Ogre::SubMesh::generateExtremes(size_t)’:
+/home/vboxuser/Desktop/ogre/OgreMain/src/OgreSubMesh.cpp:244:35: note: ‘<anonymous>’ declared here
+  244 |         boxes.push_back (Cluster ());
+      |                                   ^
+[ 29%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreTagPoint.cpp.o
+[ 29%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreTangentSpaceCalc.cpp.o
+[ 29%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreTechnique.cpp.o
+[ 29%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreTexture.cpp.o
+[ 29%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreTextureManager.cpp.o
+[ 29%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreTextureShadowRenderer.cpp.o
+[ 30%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreTextureUnitState.cpp.o
+[ 30%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreTimer.cpp.o
+[ 30%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreUnifiedHighLevelGpuProgram.cpp.o
+[ 30%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreUserObjectBindings.cpp.o
+[ 30%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreVector.cpp.o
+[ 31%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreVertexIndexData.cpp.o
+[ 31%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreViewport.cpp.o
+[ 31%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreWireBoundingBox.cpp.o
+[ 31%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreWorkQueue.cpp.o
+[ 31%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreDDSCodec.cpp.o
+[ 31%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreETCCodec.cpp.o
+[ 32%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreZip.cpp.o
+[ 32%] Building C object OgreMain/CMakeFiles/OgreMain.dir/src/zip/zip.c.o
+[ 32%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/GLX/OgreFileSystemLayer.cpp.o
+[ 32%] Building CXX object OgreMain/CMakeFiles/OgreMain.dir/src/OgreSearchOps.cpp.o
+[ 32%] Linking CXX shared library ../lib/libOgreMain.so
+[ 32%] Built target OgreMain
+[ 32%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/EGL/OgreEGLContext.cpp.o
+[ 32%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/EGL/OgreEGLRenderTexture.cpp.o
+[ 32%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/EGL/OgreEGLSupport.cpp.o
+[ 33%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/EGL/OgreEGLWindow.cpp.o
+[ 33%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/EGL/X11/OgreX11EGLSupport.cpp.o
+[ 33%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/EGL/X11/OgreX11EGLWindow.cpp.o
+[ 33%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/X11/OgreX11.cpp.o
+[ 33%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/GLSL/OgreGLSLPreprocessor.cpp.o
+[ 34%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/GLSL/OgreGLSLProgramCommon.cpp.o
+[ 34%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/GLSL/OgreGLSLProgramManagerCommon.cpp.o
+[ 34%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/GLSL/OgreGLSLShaderCommon.cpp.o
+[ 34%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/OgreGLRenderSystemCommon.cpp.o
+[ 34%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/OgreGLTextureCommon.cpp.o
+[ 34%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/OgreGLDepthBufferCommon.cpp.o
+[ 35%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/OgreGLRenderTexture.cpp.o
+[ 35%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/OgreGLMultiRenderTarget.cpp.o
+[ 35%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/OgreGLRenderToVertexBufferCommon.cpp.o
+[ 35%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/OgreGLHardwarePixelBufferCommon.cpp.o
+[ 35%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/OgreGLUniformCache.cpp.o
+[ 36%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/OgreGLVertexArrayObject.cpp.o
+[ 36%] Building CXX object RenderSystems/GLSupport/CMakeFiles/OgreGLSupport.dir/src/OgreGLWindow.cpp.o
+[ 36%] Linking CXX static library ../../lib/libOgreGLSupport.a
+[ 36%] Built target OgreGLSupport
+[ 36%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/GLSL/src/OgreGLSLExtSupport.cpp.o
+[ 36%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/GLSL/src/OgreGLSLLinkProgram.cpp.o
+[ 37%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/GLSL/src/OgreGLSLLinkProgramManager.cpp.o
+[ 37%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/GLSL/src/OgreGLSLProgram.cpp.o
+[ 37%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/GLSL/src/OgreGLSLProgramFactory.cpp.o
+[ 37%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/atifs/src/ATI_FS_GLGpuProgram.cpp.o
+[ 37%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/atifs/src/Compiler2Pass.cpp.o
+[ 37%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/atifs/src/ps_1_4.cpp.o
+[ 38%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/_ps1.0_lexer.cpp.o
+[ 38%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/_ps1.0_parser.cpp.o
+[ 38%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/_rc1.0_lexer.cpp.o
+[ 38%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/_rc1.0_parser.cpp.o
+rc1.0_grammar.y: In function ‘int rc10_parse()’:
+rc1.0_grammar.y:104:28: warning: ‘combinersStruct’ may be used uninitialized [-Wmaybe-uninitialized]
+rc1.0_grammar.y:102:20: note: ‘combinersStruct’ declared here
+rc1.0_grammar.y:104:28: warning: ‘combinersStruct’ may be used uninitialized [-Wmaybe-uninitialized]
+rc1.0_grammar.y:102:20: note: ‘combinersStruct’ declared here
+rc1.0_grammar.y:112:28: warning: ‘combinersStruct’ may be used uninitialized [-Wmaybe-uninitialized]
+rc1.0_grammar.y:110:20: note: ‘combinersStruct’ declared here
+rc1.0_grammar.y:112:28: warning: ‘combinersStruct’ may be used uninitialized [-Wmaybe-uninitialized]
+rc1.0_grammar.y:110:20: note: ‘combinersStruct’ declared here
+rc1.0_grammar.y:120:28: warning: ‘combinersStruct’ may be used uninitialized [-Wmaybe-uninitialized]
+rc1.0_grammar.y:118:20: note: ‘combinersStruct’ declared here
+rc1.0_grammar.y:120:28: warning: ‘combinersStruct’ may be used uninitialized [-Wmaybe-uninitialized]
+rc1.0_grammar.y:118:20: note: ‘combinersStruct’ declared here
+[ 38%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/_ts1.0_lexer.cpp.o
+[ 39%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/_ts1.0_parser.cpp.o
+[ 39%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/_vs1.0_lexer.cpp.o
+vs1.0_tokens.l: In function ‘void MacroMathFunction(MACROENTRY*, unsigned int*, char**, const char*)’:
+vs1.0_tokens.l:2337:27: warning: ‘%s’ directive writing up to 254 bytes into a region of size between 2 and 256 [-Wformat-overflow=]
+vs1.0_tokens.l:2337:12: note: ‘sprintf’ output 1 or more bytes (assuming 509) into a destination of size 256
+[ 39%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/_vs1.0_parser.cpp.o
+[ 39%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/avp1.0_impl.cpp.o
+[ 39%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/nvparse.cpp.o
+[ 39%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/nvparse_errors.cpp.o
+[ 40%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/ps1.0_program.cpp.o
+[ 40%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/rc1.0_combiners.cpp.o
+[ 40%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/rc1.0_final.cpp.o
+[ 40%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/rc1.0_general.cpp.o
+[ 40%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/ts1.0_inst.cpp.o
+[ 41%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/ts1.0_inst_list.cpp.o
+[ 41%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/vcp1.0_impl.cpp.o
+[ 41%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/vp1.0_impl.cpp.o
+[ 41%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/vs1.0_inst.cpp.o
+[ 41%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/vs1.0_inst_list.cpp.o
+[ 41%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/nvparse/vsp1.0_impl.cpp.o
+[ 42%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLCopyingRenderTexture.cpp.o
+[ 42%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLEngineDll.cpp.o
+[ 42%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLFBORenderTexture.cpp.o
+[ 42%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLFrameBufferObject.cpp.o
+[ 42%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLGpuNvparseProgram.cpp.o
+[ 43%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLGpuProgram.cpp.o
+[ 43%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLHardwareBuffer.cpp.o
+[ 43%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLHardwareBufferManager.cpp.o
+[ 43%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLHardwareOcclusionQuery.cpp.o
+[ 43%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLHardwarePixelBuffer.cpp.o
+[ 43%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLPBRenderTexture.cpp.o
+[ 44%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLPixelFormat.cpp.o
+[ 44%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLPlugin.cpp.o
+[ 44%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLRenderSystem.cpp.o
+/home/vboxuser/Desktop/ogre/RenderSystems/GL/src/OgreGLRenderSystem.cpp: In member function ‘virtual void Ogre::GLRenderSystem::_setCullingMode(Ogre::CullingMode)’:
+/home/vboxuser/Desktop/ogre/RenderSystems/GL/src/OgreGLRenderSystem.cpp:1667:40: warning: ‘cullMode’ may be used uninitialized [-Wmaybe-uninitialized]
+ 1667 |         mStateCacheManager->setCullFace( cullMode );
+      |         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~
+/home/vboxuser/Desktop/ogre/RenderSystems/GL/src/OgreGLRenderSystem.cpp:1649:16: note: ‘cullMode’ was declared here
+ 1649 |         GLenum cullMode;
+      |                ^~~~~~~~
+[ 44%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLRenderToVertexBuffer.cpp.o
+[ 44%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLStateCacheManager.cpp.o
+[ 45%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLTexture.cpp.o
+[ 45%] Building CXX object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/OgreGLTextureManager.cpp.o
+[ 45%] Building C object RenderSystems/GL/CMakeFiles/RenderSystem_GL.dir/src/glad.c.o
+[ 45%] Linking CXX shared library ../../lib/RenderSystem_GL.so
+[ 45%] Built target RenderSystem_GL
+[ 45%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/GLSL/src/OgreGLSLExtSupport.cpp.o
+[ 45%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/GLSL/src/OgreGLSLMonolithicProgram.cpp.o
+[ 46%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/GLSL/src/OgreGLSLProgram.cpp.o
+[ 46%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/GLSL/src/OgreGLSLProgramManager.cpp.o
+[ 46%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/GLSL/src/OgreGLSLSeparableProgram.cpp.o
+[ 46%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/GLSL/src/OgreGLSLShader.cpp.o
+[ 46%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreGL3PlusEngineDll.cpp.o
+[ 46%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreGL3PlusFBORenderTexture.cpp.o
+[ 47%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreGL3PlusFrameBufferObject.cpp.o
+[ 47%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreGL3PlusHardwareBuffer.cpp.o
+[ 47%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreGL3PlusHardwareBufferManager.cpp.o
+[ 47%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreGL3PlusHardwareOcclusionQuery.cpp.o
+[ 47%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreGL3PlusHardwarePixelBuffer.cpp.o
+[ 48%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreGL3PlusPixelFormat.cpp.o
+[ 48%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreGL3PlusPlugin.cpp.o
+[ 48%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreGL3PlusRenderSystem.cpp.o
+/home/vboxuser/Desktop/ogre/RenderSystems/GL3Plus/src/OgreGL3PlusRenderSystem.cpp: In member function ‘virtual void Ogre::GL3PlusRenderSystem::_setCullingMode(Ogre::CullingMode)’:
+/home/vboxuser/Desktop/ogre/RenderSystems/GL3Plus/src/OgreGL3PlusRenderSystem.cpp:775:40: warning: ‘cullMode’ may be used uninitialized [-Wmaybe-uninitialized]
+  775 |         mStateCacheManager->setCullFace( cullMode );
+      |         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~
+/home/vboxuser/Desktop/ogre/RenderSystems/GL3Plus/src/OgreGL3PlusRenderSystem.cpp:757:16: note: ‘cullMode’ was declared here
+  757 |         GLenum cullMode;
+      |                ^~~~~~~~
+[ 48%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreGL3PlusRenderToVertexBuffer.cpp.o
+[ 48%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreGL3PlusStateCacheManager.cpp.o
+[ 48%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreGL3PlusTexture.cpp.o
+[ 49%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreGL3PlusTextureBuffer.cpp.o
+[ 49%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreGL3PlusTextureManager.cpp.o
+[ 49%] Building CXX object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/OgreSPIRVShaderFactory.cpp.o
+[ 49%] Building C object RenderSystems/GL3Plus/CMakeFiles/RenderSystem_GL3Plus.dir/src/gl3w.c.o
+[ 49%] Linking CXX shared library ../../lib/RenderSystem_GL3Plus.so
+[ 49%] Built target RenderSystem_GL3Plus
+[ 50%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2EngineDll.cpp.o
+[ 50%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2FBORenderTexture.cpp.o
+[ 50%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2FrameBufferObject.cpp.o
+[ 50%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2HardwareBuffer.cpp.o
+[ 50%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2HardwareBufferManager.cpp.o
+[ 50%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2HardwareOcclusionQuery.cpp.o
+[ 51%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2HardwarePixelBuffer.cpp.o
+[ 51%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2ManagedResource.cpp.o
+[ 51%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2ManagedResourceManager.cpp.o
+[ 51%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2PixelFormat.cpp.o
+[ 51%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2Plugin.cpp.o
+[ 52%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2RenderSystem.cpp.o
+/home/vboxuser/Desktop/ogre/RenderSystems/GLES2/src/OgreGLES2RenderSystem.cpp: In member function ‘virtual void Ogre::GLES2RenderSystem::_setCullingMode(Ogre::CullingMode)’:
+/home/vboxuser/Desktop/ogre/RenderSystems/GLES2/src/OgreGLES2RenderSystem.cpp:876:40: warning: ‘cullMode’ may be used uninitialized [-Wmaybe-uninitialized]
+  876 |         mStateCacheManager->setCullFace(cullMode);
+      |         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~
+/home/vboxuser/Desktop/ogre/RenderSystems/GLES2/src/OgreGLES2RenderSystem.cpp:858:16: note: ‘cullMode’ was declared here
+  858 |         GLenum cullMode;
+      |                ^~~~~~~~
+[ 52%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2RenderToVertexBuffer.cpp.o
+[ 52%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2StateCacheManager.cpp.o
+[ 52%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2Texture.cpp.o
+[ 52%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/OgreGLES2TextureManager.cpp.o
+[ 52%] Building C object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/glesw.c.o
+[ 53%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/GLSLES/src/OgreGLSLESExtSupport.cpp.o
+[ 53%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/GLSLES/src/OgreGLSLESLinkProgram.cpp.o
+[ 53%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/GLSLES/src/OgreGLSLESProgram.cpp.o
+[ 53%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/GLSLES/src/OgreGLSLESProgramCommon.cpp.o
+[ 53%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/GLSLES/src/OgreGLSLESProgramManager.cpp.o
+[ 54%] Building CXX object RenderSystems/GLES2/CMakeFiles/RenderSystem_GLES2.dir/src/GLSLES/src/OgreGLSLESProgramPipeline.cpp.o
+[ 54%] Linking CXX shared library ../../lib/RenderSystem_GLES2.so
+[ 54%] Built target RenderSystem_GLES2
+[ 54%] Building CXX object PlugIns/OctreeSceneManager/CMakeFiles/Plugin_OctreeSceneManager.dir/src/OgreOctree.cpp.o
+[ 54%] Building CXX object PlugIns/OctreeSceneManager/CMakeFiles/Plugin_OctreeSceneManager.dir/src/OgreOctreeCamera.cpp.o
+[ 54%] Building CXX object PlugIns/OctreeSceneManager/CMakeFiles/Plugin_OctreeSceneManager.dir/src/OgreOctreeNode.cpp.o
+[ 55%] Building CXX object PlugIns/OctreeSceneManager/CMakeFiles/Plugin_OctreeSceneManager.dir/src/OgreOctreePlugin.cpp.o
+[ 55%] Building CXX object PlugIns/OctreeSceneManager/CMakeFiles/Plugin_OctreeSceneManager.dir/src/OgreOctreeSceneManager.cpp.o
+[ 55%] Building CXX object PlugIns/OctreeSceneManager/CMakeFiles/Plugin_OctreeSceneManager.dir/src/OgreOctreeSceneManagerDll.cpp.o
+[ 55%] Building CXX object PlugIns/OctreeSceneManager/CMakeFiles/Plugin_OctreeSceneManager.dir/src/OgreOctreeSceneQuery.cpp.o
+[ 55%] Linking CXX shared library ../../lib/Plugin_OctreeSceneManager.so
+[ 55%] Built target Plugin_OctreeSceneManager
+[ 55%] Building CXX object PlugIns/BSPSceneManager/CMakeFiles/Plugin_BSPSceneManager.dir/src/OgreBspLevel.cpp.o
+[ 55%] Building CXX object PlugIns/BSPSceneManager/CMakeFiles/Plugin_BSPSceneManager.dir/src/OgreBspNode.cpp.o
+[ 55%] Building CXX object PlugIns/BSPSceneManager/CMakeFiles/Plugin_BSPSceneManager.dir/src/OgreBspSceneManager.cpp.o
+[ 55%] Building CXX object PlugIns/BSPSceneManager/CMakeFiles/Plugin_BSPSceneManager.dir/src/OgreBspSceneManagerDll.cpp.o
+[ 56%] Building CXX object PlugIns/BSPSceneManager/CMakeFiles/Plugin_BSPSceneManager.dir/src/OgreBspSceneManagerPlugin.cpp.o
+[ 56%] Building CXX object PlugIns/BSPSceneManager/CMakeFiles/Plugin_BSPSceneManager.dir/src/OgreBspSceneNode.cpp.o
+[ 56%] Building CXX object PlugIns/BSPSceneManager/CMakeFiles/Plugin_BSPSceneManager.dir/src/OgreQuake3Level.cpp.o
+[ 56%] Building CXX object PlugIns/BSPSceneManager/CMakeFiles/Plugin_BSPSceneManager.dir/src/OgreQuake3Shader.cpp.o
+[ 56%] Building CXX object PlugIns/BSPSceneManager/CMakeFiles/Plugin_BSPSceneManager.dir/src/OgreQuake3ShaderManager.cpp.o
+[ 56%] Linking CXX shared library ../../lib/Plugin_BSPSceneManager.so
+[ 56%] Built target Plugin_BSPSceneManager
+[ 56%] Building CXX object PlugIns/STBICodec/CMakeFiles/Codec_STBI.dir/src/OgreSTBICodec.cpp.o
+[ 56%] Linking CXX shared library ../../lib/Codec_STBI.so
+[ 56%] Built target Codec_STBI
+[ 56%] Building CXX object PlugIns/FreeImageCodec/CMakeFiles/Codec_FreeImage.dir/src/OgreFreeImageCodec.cpp.o
+[ 56%] Linking CXX shared library ../../lib/Codec_FreeImage.so
+[ 56%] Built target Codec_FreeImage
+[ 57%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreAreaEmitter.cpp.o
+[ 57%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreBoxEmitter.cpp.o
+[ 57%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreColourFaderAffector.cpp.o
+[ 57%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreColourFaderAffector2.cpp.o
+[ 57%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreColourImageAffector.cpp.o
+[ 58%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreColourInterpolatorAffector.cpp.o
+[ 58%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreCylinderEmitter.cpp.o
+[ 58%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreDeflectorPlaneAffector.cpp.o
+[ 58%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreDirectionRandomiserAffector.cpp.o
+[ 58%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreEllipsoidEmitter.cpp.o
+[ 58%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreHollowEllipsoidEmitter.cpp.o
+[ 59%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreLinearForceAffector.cpp.o
+[ 59%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreParticleFX.cpp.o
+[ 59%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreParticleFXPlugin.cpp.o
+[ 59%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgrePointEmitter.cpp.o
+[ 59%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreRingEmitter.cpp.o
+[ 60%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreRotationAffector.cpp.o
+[ 60%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreScaleAffector.cpp.o
+[ 60%] Building CXX object PlugIns/ParticleFX/CMakeFiles/Plugin_ParticleFX.dir/src/OgreTextureAnimatorAffector.cpp.o
+[ 60%] Linking CXX shared library ../../lib/Plugin_ParticleFX.so
+[ 60%] Built target Plugin_ParticleFX
+[ 60%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgreAntiPortal.cpp.o
+[ 61%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgreCapsule.cpp.o
+[ 61%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgreDefaultZone.cpp.o
+[ 61%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgrePCPlane.cpp.o
+[ 61%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgrePCZCamera.cpp.o
+[ 61%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgrePCZFrustum.cpp.o
+[ 61%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgrePCZLight.cpp.o
+[ 62%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgrePCZPlugin.cpp.o
+[ 62%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgrePCZSceneManager.cpp.o
+[ 62%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgrePCZSceneManagerDll.cpp.o
+[ 62%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgrePCZSceneNode.cpp.o
+[ 62%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgrePCZSceneQuery.cpp.o
+[ 63%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgrePCZone.cpp.o
+[ 63%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgrePCZoneFactory.cpp.o
+[ 63%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgrePortal.cpp.o
+[ 63%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgrePortalBase.cpp.o
+[ 63%] Building CXX object PlugIns/PCZSceneManager/CMakeFiles/Plugin_PCZSceneManager.dir/src/OgreSegment.cpp.o
+[ 63%] Linking CXX shared library ../../lib/Plugin_PCZSceneManager.so
+[ 63%] Built target Plugin_PCZSceneManager
+[ 63%] Building CXX object PlugIns/OctreeZone/CMakeFiles/Plugin_OctreeZone.dir/src/OgreOctreeZone.cpp.o
+[ 64%] Building CXX object PlugIns/OctreeZone/CMakeFiles/Plugin_OctreeZone.dir/src/OgreOctreeZoneDll.cpp.o
+[ 64%] Building CXX object PlugIns/OctreeZone/CMakeFiles/Plugin_OctreeZone.dir/src/OgreOctreeZoneOctree.cpp.o
+[ 64%] Building CXX object PlugIns/OctreeZone/CMakeFiles/Plugin_OctreeZone.dir/src/OgreOctreeZonePlugin.cpp.o
+[ 64%] Linking CXX shared library ../../lib/Plugin_OctreeZone.so
+[ 64%] Built target Plugin_OctreeZone
+[ 65%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/cmake_pch.hxx.gch
+[ 65%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderCGProgramWriter.cpp.o
+[ 65%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderCookTorranceLighting.cpp.o
+[ 65%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderExDualQuaternionSkinning.cpp.o
+[ 65%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderExGBuffer.cpp.o
+[ 66%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderExHardwareSkinning.cpp.o
+[ 66%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderExHardwareSkinningTechnique.cpp.o
+[ 66%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderExIntegratedPSSM3.cpp.o
+[ 66%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderExLayeredBlending.cpp.o
+[ 66%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderExLinearSkinning.cpp.o
+[ 66%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderExNormalMapLighting.cpp.o
+[ 67%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderExPerPixelLighting.cpp.o
+[ 67%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderExTriplanarTexturing.cpp.o
+[ 67%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderExWBOIT.cpp.o
+[ 67%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderFFPAlphaTest.cpp.o
+[ 67%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderFFPColour.cpp.o
+[ 68%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderFFPFog.cpp.o
+[ 68%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderFFPLighting.cpp.o
+[ 68%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderFFPTexturing.cpp.o
+[ 68%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderFFPTransform.cpp.o
+[ 68%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderFunction.cpp.o
+[ 68%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderFunctionAtom.cpp.o
+[ 69%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderGLSLProgramWriter.cpp.o
+[ 69%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderGenerator.cpp.o
+[ 69%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderImageBasedLighting.cpp.o
+[ 69%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderMaterialSerializerListener.cpp.o
+[ 69%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderParameter.cpp.o
+[ 69%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderProgram.cpp.o
+[ 70%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderProgramManager.cpp.o
+[ 70%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderProgramProcessor.cpp.o
+[ 70%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderProgramSet.cpp.o
+[ 70%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderProgramWriter.cpp.o
+[ 70%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderProgramWriterManager.cpp.o
+[ 71%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderRenderState.cpp.o
+[ 71%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderScriptTranslator.cpp.o
+[ 71%] Building CXX object Components/RTShaderSystem/CMakeFiles/OgreRTShaderSystem.dir/src/OgreShaderSubRenderState.cpp.o
+[ 71%] Linking CXX shared library ../../lib/libOgreRTShaderSystem.so
+[ 71%] Built target OgreRTShaderSystem
+[ 71%] Building CXX object Components/Paging/CMakeFiles/OgrePaging.dir/src/OgreGrid2DPageStrategy.cpp.o
+[ 72%] Building CXX object Components/Paging/CMakeFiles/OgrePaging.dir/src/OgreGrid3DPageStrategy.cpp.o
+[ 72%] Building CXX object Components/Paging/CMakeFiles/OgrePaging.dir/src/OgrePage.cpp.o
+[ 72%] Building CXX object Components/Paging/CMakeFiles/OgrePaging.dir/src/OgrePageContent.cpp.o
+[ 72%] Building CXX object Components/Paging/CMakeFiles/OgrePaging.dir/src/OgrePageContentCollection.cpp.o
+[ 72%] Building CXX object Components/Paging/CMakeFiles/OgrePaging.dir/src/OgrePageManager.cpp.o
+[ 73%] Building CXX object Components/Paging/CMakeFiles/OgrePaging.dir/src/OgrePagedWorld.cpp.o
+[ 73%] Building CXX object Components/Paging/CMakeFiles/OgrePaging.dir/src/OgrePagedWorldSection.cpp.o
+[ 73%] Building CXX object Components/Paging/CMakeFiles/OgrePaging.dir/src/OgreSimplePageContentCollection.cpp.o
+[ 73%] Linking CXX shared library ../../lib/libOgrePaging.so
+[ 73%] Built target OgrePaging
+[ 73%] Building CXX object Components/Terrain/CMakeFiles/OgreTerrain.dir/src/OgreTerrain.cpp.o
+[ 73%] Building CXX object Components/Terrain/CMakeFiles/OgreTerrain.dir/src/OgreTerrainAutoUpdateLod.cpp.o
+[ 74%] Building CXX object Components/Terrain/CMakeFiles/OgreTerrain.dir/src/OgreTerrainGroup.cpp.o
+[ 74%] Building CXX object Components/Terrain/CMakeFiles/OgreTerrain.dir/src/OgreTerrainLayerBlendMap.cpp.o
+[ 74%] Building CXX object Components/Terrain/CMakeFiles/OgreTerrain.dir/src/OgreTerrainLodManager.cpp.o
+[ 74%] Building CXX object Components/Terrain/CMakeFiles/OgreTerrain.dir/src/OgreTerrainMaterialGenerator.cpp.o
+[ 74%] Building CXX object Components/Terrain/CMakeFiles/OgreTerrain.dir/src/OgreTerrainMaterialGeneratorA.cpp.o
+[ 75%] Building CXX object Components/Terrain/CMakeFiles/OgreTerrain.dir/src/OgreTerrainQuadTreeNode.cpp.o
+[ 75%] Building CXX object Components/Terrain/CMakeFiles/OgreTerrain.dir/src/OgreTerrainRTShaderSRS.cpp.o
+[ 75%] Building CXX object Components/Terrain/CMakeFiles/OgreTerrain.dir/src/OgreTerrainPaging.cpp.o
+[ 75%] Building CXX object Components/Terrain/CMakeFiles/OgreTerrain.dir/src/OgreTerrainPagedWorldSection.cpp.o
+[ 75%] Linking CXX shared library ../../lib/libOgreTerrain.so
+[ 75%] Built target OgreTerrain
+[ 76%] Building CXX object PlugIns/DotScene/CMakeFiles/Plugin_DotScene.dir/src/DotSceneLoader.cpp.o
+[ 76%] Linking CXX shared library ../../lib/Plugin_DotScene.so
+[ 76%] Built target Plugin_DotScene
+[ 77%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/src/OgreBorderPanelOverlayElement.cpp.o
+[ 77%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/src/OgreFont.cpp.o
+[ 77%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/src/OgreFontManager.cpp.o
+[ 77%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/src/OgreImGuiOverlay.cpp.o
+[ 77%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/src/OgreOverlay.cpp.o
+[ 78%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/src/OgreOverlayContainer.cpp.o
+[ 78%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/src/OgreOverlayElement.cpp.o
+[ 78%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/src/OgreOverlayElementCommands.cpp.o
+[ 78%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/src/OgreOverlayManager.cpp.o
+[ 78%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/src/OgreOverlayProfileSessionListener.cpp.o
+[ 78%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/src/OgreOverlaySystem.cpp.o
+[ 79%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/src/OgreOverlayTranslator.cpp.o
+[ 79%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/src/OgrePanelOverlayElement.cpp.o
+[ 79%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/src/OgreTextAreaOverlayElement.cpp.o
+[ 79%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/__/__/imgui-1.91.9b/imgui.cpp.o
+[ 79%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/__/__/imgui-1.91.9b/imgui_draw.cpp.o
+[ 80%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/__/__/imgui-1.91.9b/imgui_tables.cpp.o
+[ 80%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/__/__/imgui-1.91.9b/imgui_widgets.cpp.o
+[ 80%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/__/__/imgui-1.91.9b/imgui_demo.cpp.o
+[ 80%] Building CXX object Components/Overlay/CMakeFiles/OgreOverlay.dir/__/__/imgui-1.91.9b/misc/freetype/imgui_freetype.cpp.o
+[ 80%] Linking CXX shared library ../../lib/libOgreOverlay.so
+[ 80%] Built target OgreOverlay
+[ 81%] Building CXX object Components/Bites/CMakeFiles/OgreBites.dir/src/OgreAdvancedRenderControls.cpp.o
+[ 81%] Building CXX object Components/Bites/CMakeFiles/OgreBites.dir/src/OgreApplicationContextBase.cpp.o
+[ 81%] Building CXX object Components/Bites/CMakeFiles/OgreBites.dir/src/OgreBitesConfigDialog.cpp.o
+[ 81%] Building CXX object Components/Bites/CMakeFiles/OgreBites.dir/src/OgreCameraMan.cpp.o
+[ 81%] Building CXX object Components/Bites/CMakeFiles/OgreBites.dir/src/OgreSGTechniqueResolverListener.cpp.o
+[ 82%] Building CXX object Components/Bites/CMakeFiles/OgreBites.dir/src/OgreStaticPluginLoader.cpp.o
+[ 82%] Building CXX object Components/Bites/CMakeFiles/OgreBites.dir/src/OgreTrays.cpp.o
+[ 82%] Building CXX object Components/Bites/CMakeFiles/OgreBites.dir/src/OgreWindowEventUtilities.cpp.o
+[ 82%] Building CXX object Components/Bites/CMakeFiles/OgreBites.dir/src/OgreGizmos.cpp.o
+[ 82%] Building CXX object Components/Bites/CMakeFiles/OgreBites.dir/src/OgreGLXConfigDialog.cpp.o
+[ 82%] Building CXX object Components/Bites/CMakeFiles/OgreBites.dir/src/OgreImGuiInputListener.cpp.o
+[ 83%] Linking CXX shared library ../../lib/libOgreBites.so
+[ 83%] Built target OgreBites
+[ 83%] Building CXX object Components/Bullet/CMakeFiles/OgreBullet.dir/src/OgreBullet.cpp.o
+[ 83%] Linking CXX shared library ../../lib/libOgreBullet.so
+[ 83%] Built target OgreBullet
+[ 84%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/cmake_pch.hxx.gch
+[ 84%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodBuffer.cpp.o
+[ 84%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodCollapseCost.cpp.o
+[ 84%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodCollapseCostCurvature.cpp.o
+[ 84%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodCollapseCostOutside.cpp.o
+[ 84%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodCollapseCostProfiler.cpp.o
+[ 85%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodCollapseCostQuadric.cpp.o
+[ 85%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodCollapser.cpp.o
+[ 85%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodConfig.cpp.o
+[ 85%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodConfigSerializer.cpp.o
+[ 85%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodData.cpp.o
+[ 86%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodInputProvider.cpp.o
+[ 86%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodInputProviderBuffer.cpp.o
+[ 86%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodInputProviderMesh.cpp.o
+In file included from /home/vboxuser/Desktop/ogre/Components/MeshLodGenerator/include/OgreMeshLodGenerator.h:34,
+                 from /home/vboxuser/Desktop/ogre/Components/MeshLodGenerator/src/OgreMeshLodPrecompiledHeaders.h:41,
+                 from /home/vboxuser/Desktop/ogre/build/Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/cmake_pch.hxx:5,
+                 from <command-line>:
+In constructor ‘Ogre::LodData::Vertex::Vertex(Ogre::LodData::Vertex&&)’,
+    inlined from ‘void std::__new_allocator<_Tp>::construct(_Up*, _Args&& ...) [with _Up = Ogre::LodData::Vertex; _Args = {Ogre::LodData::Vertex}; _Tp = Ogre::LodData::Vertex]’ at /usr/include/c++/14/bits/new_allocator.h:191:4,
+    inlined from ‘static void std::allocator_traits<std::allocator<_CharT> >::construct(allocator_type&, _Up*, _Args&& ...) [with _Up = Ogre::LodData::Vertex; _Args = {Ogre::LodData::Vertex}; _Tp = Ogre::LodData::Vertex]’ at /usr/include/c++/14/bits/alloc_traits.h:575:17,
+    inlined from ‘void std::vector<_Tp, _Alloc>::emplace_back(_Args&& ...) [with _Args = {Ogre::LodData::Vertex}; _Tp = Ogre::LodData::Vertex; _Alloc = std::allocator<Ogre::LodData::Vertex>]’ at /usr/include/c++/14/bits/vector.tcc:117:30,
+    inlined from ‘void std::vector<_Tp, _Alloc>::push_back(value_type&&) [with _Tp = Ogre::LodData::Vertex; _Alloc = std::allocator<Ogre::LodData::Vertex>]’ at /usr/include/c++/14/bits/stl_vector.h:1301:21,
+    inlined from ‘virtual void Ogre::LodInputProviderMesh::addVertexData(Ogre::LodData*, size_t)’ at /home/vboxuser/Desktop/ogre/Components/MeshLodGenerator/src/OgreLodInputProviderMesh.cpp:89:40:
+/home/vboxuser/Desktop/ogre/Components/MeshLodGenerator/include/OgreLodData.h:104:12: warning: ‘<unnamed>.Ogre::LodData::Vertex::position’ may be used uninitialized [-Wmaybe-uninitialized]
+  104 |     struct Vertex {
+      |            ^~~~~~
+/home/vboxuser/Desktop/ogre/Components/MeshLodGenerator/src/OgreLodInputProviderMesh.cpp: In member function ‘virtual void Ogre::LodInputProviderMesh::addVertexData(Ogre::LodData*, size_t)’:
+/home/vboxuser/Desktop/ogre/Components/MeshLodGenerator/src/OgreLodInputProviderMesh.cpp:89:57: note: ‘<anonymous>’ declared here
+   89 |             data->mVertexList.push_back(LodData::Vertex());
+      |                                                         ^
+In constructor ‘Ogre::LodData::Vertex::Vertex(Ogre::LodData::Vertex&&)’,
+    inlined from ‘void std::__new_allocator<_Tp>::construct(_Up*, _Args&& ...) [with _Up = Ogre::LodData::Vertex; _Args = {Ogre::LodData::Vertex}; _Tp = Ogre::LodData::Vertex]’ at /usr/include/c++/14/bits/new_allocator.h:191:4,
+    inlined from ‘static void std::allocator_traits<std::allocator<_CharT> >::construct(allocator_type&, _Up*, _Args&& ...) [with _Up = Ogre::LodData::Vertex; _Args = {Ogre::LodData::Vertex}; _Tp = Ogre::LodData::Vertex]’ at /usr/include/c++/14/bits/alloc_traits.h:575:17,
+    inlined from ‘void std::vector<_Tp, _Alloc>::emplace_back(_Args&& ...) [with _Args = {Ogre::LodData::Vertex}; _Tp = Ogre::LodData::Vertex; _Alloc = std::allocator<Ogre::LodData::Vertex>]’ at /usr/include/c++/14/bits/vector.tcc:117:30,
+    inlined from ‘void std::vector<_Tp, _Alloc>::push_back(value_type&&) [with _Tp = Ogre::LodData::Vertex; _Alloc = std::allocator<Ogre::LodData::Vertex>]’ at /usr/include/c++/14/bits/stl_vector.h:1301:21,
+    inlined from ‘virtual void Ogre::LodInputProviderMesh::addVertexData(Ogre::LodData*, size_t)’ at /home/vboxuser/Desktop/ogre/Components/MeshLodGenerator/src/OgreLodInputProviderMesh.cpp:89:40:
+/home/vboxuser/Desktop/ogre/Components/MeshLodGenerator/include/OgreLodData.h:104:12: warning: ‘<unnamed>.Ogre::LodData::Vertex::normal’ may be used uninitialized [-Wmaybe-uninitialized]
+  104 |     struct Vertex {
+      |            ^~~~~~
+/home/vboxuser/Desktop/ogre/Components/MeshLodGenerator/src/OgreLodInputProviderMesh.cpp: In member function ‘virtual void Ogre::LodInputProviderMesh::addVertexData(Ogre::LodData*, size_t)’:
+/home/vboxuser/Desktop/ogre/Components/MeshLodGenerator/src/OgreLodInputProviderMesh.cpp:89:57: note: ‘<anonymous>’ declared here
+   89 |             data->mVertexList.push_back(LodData::Vertex());
+      |                                                         ^
+[ 86%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodOutputProvider.cpp.o
+[ 86%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodOutputProviderBuffer.cpp.o
+[ 86%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodOutputProviderMesh.cpp.o
+[ 87%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreLodOutsideMarker.cpp.o
+[ 87%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreMeshLodGenerator.cpp.o
+[ 87%] Building CXX object Components/MeshLodGenerator/CMakeFiles/OgreMeshLodGenerator.dir/src/OgreSmallVector.cpp.o
+[ 87%] Linking CXX shared library ../../lib/libOgreMeshLodGenerator.so
+[ 87%] Built target OgreMeshLodGenerator
+[ 87%] Building CXX object Components/Property/CMakeFiles/OgreProperty.dir/src/OgreProperty.cpp.o
+[ 87%] Linking CXX shared library ../../lib/libOgreProperty.so
+[ 87%] Built target OgreProperty
+[ 87%] Building CXX object Components/Volume/CMakeFiles/OgreVolume.dir/src/OgreVolumeCSGSource.cpp.o
+[ 88%] Building CXX object Components/Volume/CMakeFiles/OgreVolume.dir/src/OgreVolumeCacheSource.cpp.o
+[ 88%] Building CXX object Components/Volume/CMakeFiles/OgreVolume.dir/src/OgreVolumeChunk.cpp.o
+[ 88%] Building CXX object Components/Volume/CMakeFiles/OgreVolume.dir/src/OgreVolumeDualGridGenerator.cpp.o
+[ 88%] Building CXX object Components/Volume/CMakeFiles/OgreVolume.dir/src/OgreVolumeGridSource.cpp.o
+[ 88%] Building CXX object Components/Volume/CMakeFiles/OgreVolume.dir/src/OgreVolumeHalfFloatGridSource.cpp.o
+[ 89%] Building CXX object Components/Volume/CMakeFiles/OgreVolume.dir/src/OgreVolumeIsoSurface.cpp.o
+[ 89%] Building CXX object Components/Volume/CMakeFiles/OgreVolume.dir/src/OgreVolumeIsoSurfaceMC.cpp.o
+[ 89%] Building CXX object Components/Volume/CMakeFiles/OgreVolume.dir/src/OgreVolumeMeshBuilder.cpp.o
+[ 89%] Building CXX object Components/Volume/CMakeFiles/OgreVolume.dir/src/OgreVolumeOctreeNode.cpp.o
+[ 89%] Building CXX object Components/Volume/CMakeFiles/OgreVolume.dir/src/OgreVolumeOctreeNodeSplitPolicy.cpp.o
+[ 89%] Building CXX object Components/Volume/CMakeFiles/OgreVolume.dir/src/OgreVolumeSimplexNoise.cpp.o
+[ 90%] Building CXX object Components/Volume/CMakeFiles/OgreVolume.dir/src/OgreVolumeSource.cpp.o
+[ 90%] Building CXX object Components/Volume/CMakeFiles/OgreVolume.dir/src/OgreVolumeTextureSource.cpp.o
+[ 90%] Linking CXX shared library ../../lib/libOgreVolume.so
+[ 90%] Built target OgreVolume
+[ 90%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/Common/src/DefaultSamplesPlugin.cpp.o
+[ 91%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/CSMShadows/src/CSMGpuConstants.cpp.o
+[ 91%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/CSMShadows/src/ShadowCameraSetupStableCSM.cpp.o
+[ 91%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/Compositor/src/HelperLogics.cpp.o
+[ 91%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/DeferredShading/src/AmbientLight.cpp.o
+[ 91%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/DeferredShading/src/DLight.cpp.o
+[ 91%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/DeferredShading/src/DeferredLightCP.cpp.o
+[ 92%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/DeferredShading/src/DeferredShading.cpp.o
+[ 92%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/DeferredShading/src/GBufferSchemeHandler.cpp.o
+[ 92%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/DeferredShading/src/GeomUtils.cpp.o
+[ 92%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/DeferredShading/src/LightMaterialGenerator.cpp.o
+[ 92%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/DeferredShading/src/MaterialGenerator.cpp.o
+[ 93%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/DeferredShading/src/SSAOLogic.cpp.o
+[ 93%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/EndlessWorld/src/PerlinNoiseTerrainGenerator.cpp.o
+[ 93%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/Isosurf/src/Isosurf.cpp.o
+[ 93%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/Isosurf/src/ProceduralTools.cpp.o
+[ 93%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/OceanDemo/src/MaterialControls.cpp.o
+[ 93%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/PCZTestApp/src/RoomObject.cpp.o
+[ 94%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/ParticleGS/src/ParticleGS.cpp.o
+[ 94%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/ParticleGS/src/ProceduralManualObject.cpp.o
+[ 94%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/ParticleGS/src/RandomTools.cpp.o
+[ 94%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/ShaderSystem/src/OgreShaderExInstancedViewports.cpp.o
+[ 94%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/ShaderSystem/src/OgreShaderExTextureAtlasSampler.cpp.o
+[ 95%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/ShaderSystem/src/ShaderSystem.cpp.o
+[ 95%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/ShaderSystemMultiLight/src/RTShaderSRSSegmentedLights.cpp.o
+[ 95%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/ShaderSystemMultiLight/src/SegmentedDynamicLightManager.cpp.o
+[ 95%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/ShaderSystemMultiLight/src/ShaderSystemMultiLight.cpp.o
+[ 95%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/ShaderSystemTexturedFog/src/RTShaderSRSTexturedFog.cpp.o
+[ 95%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/ShaderSystemTexturedFog/src/ShaderSystemTexturedFog.cpp.o
+[ 96%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/Simple/src/Compute.cpp.o
+[ 96%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/Simple/src/MeshLod.cpp.o
+[ 96%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/Simple/src/NewInstancing.cpp.o
+[ 96%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/Simple/src/TimeEvents.cpp.o
+[ 96%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/Simple/src/VolumeCSG.cpp.o
+[ 97%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/Simple/src/VolumeTerrain.cpp.o
+[ 97%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/VolumeTex/src/ThingRenderable.cpp.o
+[ 97%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/VolumeTex/src/VolumeRenderable.cpp.o
+[ 97%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/VolumeTex/src/VolumeTex.cpp.o
+[ 97%] Building CXX object Samples/CMakeFiles/DefaultSamples.dir/Water/src/WaterMesh.cpp.o
+[ 97%] Linking CXX shared library ../lib/DefaultSamples.so
+[ 97%] Built target DefaultSamples
+[ 97%] Building CXX object Samples/Browser/CMakeFiles/SampleBrowser.dir/src/main.cpp.o
+[ 97%] Linking CXX executable ../../bin/SampleBrowser
+[ 97%] Built target SampleBrowser
+[ 97%] Building CXX object Tools/XMLConverter/CMakeFiles/OgreXMLConverter.dir/src/main.cpp.o
+[ 97%] Building CXX object Tools/XMLConverter/CMakeFiles/OgreXMLConverter.dir/src/OgreXMLMeshSerializer.cpp.o
+[ 98%] Building CXX object Tools/XMLConverter/CMakeFiles/OgreXMLConverter.dir/src/OgreXMLSkeletonSerializer.cpp.o
+[ 98%] Linking CXX executable ../../bin/OgreXMLConverter
+[ 98%] Built target OgreXMLConverter
+[ 98%] Building CXX object Tools/VRMLConverter/CMakeFiles/VRMLConverter.dir/src/VRML2mesh.cpp.o
+[ 98%] Building CXX object Tools/VRMLConverter/CMakeFiles/VRMLConverter.dir/vrmllib/src/commentstream.cpp.o
+[ 99%] Building CXX object Tools/VRMLConverter/CMakeFiles/VRMLConverter.dir/vrmllib/src/file.cpp.o
+[ 99%] Building CXX object Tools/VRMLConverter/CMakeFiles/VRMLConverter.dir/vrmllib/src/indexed_face_set.cpp.o
+[ 99%] Building CXX object Tools/VRMLConverter/CMakeFiles/VRMLConverter.dir/vrmllib/src/node.cpp.o
+[ 99%] Building CXX object Tools/VRMLConverter/CMakeFiles/VRMLConverter.dir/vrmllib/src/nodes.cpp.o
+[ 99%] Building CXX object Tools/VRMLConverter/CMakeFiles/VRMLConverter.dir/vrmllib/src/types.cpp.o
+[100%] Linking CXX executable ../../bin/VRMLConverter
+[100%] Built target VRMLConverter
+[100%] Building CXX object Tools/MeshUpgrader/CMakeFiles/OgreMeshUpgrader.dir/src/main.cpp.o
+[100%] Linking CXX executable ../../bin/OgreMeshUpgrader
+[100%] Built target OgreMeshUpgrader
